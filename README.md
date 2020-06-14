@@ -1,1 +1,1 @@
-# University-Year-2
+In my second semester of second year I had 8 weekly coding assignments (hence 8 sections). Each assignment had different questions, some of which required me to write progams. The code that I submitted for these questions have title "Q2.4" (or similar). These are the programs which should primarily be reviewed, all other programs in this repository are either pieces of code given in the questions or they are just 'practises' in which I was testing things before adding them to my main programs.
